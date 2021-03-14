@@ -1,0 +1,23 @@
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\Bee animation 1.png
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\Bee animation 2.png
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\Bee animation 3.png
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\Bee animation 4.png
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\AnimatedBees.exe.config
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\AnimatedBees.exe
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\bin\Debug\AnimatedBees.pdb
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.csprojAssemblyReference.cache
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\View\AnimatedImage.g.cs
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\View\FlyingBees.g.cs
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\App.g.cs
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees_Content.g.cs
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees_MarkupCompile.cache
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees_MarkupCompile.lref
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\View\AnimatedImage.baml
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\View\FlyingBees.baml
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.g.resources
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.Properties.Resources.resources
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.csproj.GenerateResource.cache
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.csproj.CoreCompileInputs.cache
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.exe
+C:\Users\zelo9\Desktop\Projects\AnimatedBees\obj\Debug\AnimatedBees.pdb
